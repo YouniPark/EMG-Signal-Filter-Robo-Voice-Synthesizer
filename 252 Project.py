@@ -24,7 +24,7 @@ emg_relaxed = df['EMG_Relaxed (mV)'].values
 emg_contracted = df['EMG_Contracted (mV)'].values
 
 # Step 2: Design the notch filter
-fs = 1000  # Replace with your actual sampling frequency
+fs = 1000  # sampling frequency
 BW = 5  # Bandwidth in Hz
 notch_freq = 60  # Notch frequency to remove (60 Hz)
 
