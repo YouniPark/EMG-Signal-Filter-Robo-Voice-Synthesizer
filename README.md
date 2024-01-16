@@ -1,4 +1,4 @@
-# 252_Project #
+# EMG Signal Filter & Robo-Voice Synthesizer #
 EMG Signal Filter
 
 PART A
